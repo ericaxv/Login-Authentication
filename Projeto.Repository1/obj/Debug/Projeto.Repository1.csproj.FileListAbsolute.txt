@@ -1,0 +1,11 @@
+C:\Users\Lindalva\source\repos\GerenciadorFinanceiro\Projeto.Repository1\bin\Debug\Projeto.Repository1.dll
+C:\Users\Lindalva\source\repos\GerenciadorFinanceiro\Projeto.Repository1\bin\Debug\Projeto.Repository1.pdb
+C:\Users\Lindalva\source\repos\GerenciadorFinanceiro\Projeto.Repository1\bin\Debug\Dapper.dll
+C:\Users\Lindalva\source\repos\GerenciadorFinanceiro\Projeto.Repository1\bin\Debug\Projeto.Entities.dll
+C:\Users\Lindalva\source\repos\GerenciadorFinanceiro\Projeto.Repository1\bin\Debug\Projeto.Entities.pdb
+C:\Users\Lindalva\source\repos\GerenciadorFinanceiro\Projeto.Repository1\bin\Debug\Dapper.xml
+C:\Users\Lindalva\source\repos\GerenciadorFinanceiro\Projeto.Repository1\obj\Debug\Projeto.Repository1.csprojAssemblyReference.cache
+C:\Users\Lindalva\source\repos\GerenciadorFinanceiro\Projeto.Repository1\obj\Debug\Projeto.Repository1.csproj.CoreCompileInputs.cache
+C:\Users\Lindalva\source\repos\GerenciadorFinanceiro\Projeto.Repository1\obj\Debug\Projeto.Repository1.csproj.CopyComplete
+C:\Users\Lindalva\source\repos\GerenciadorFinanceiro\Projeto.Repository1\obj\Debug\Projeto.Repository1.dll
+C:\Users\Lindalva\source\repos\GerenciadorFinanceiro\Projeto.Repository1\obj\Debug\Projeto.Repository1.pdb

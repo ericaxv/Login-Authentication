@@ -1,0 +1,5 @@
+C:\Users\Lindalva\source\repos\GerenciadorFinanceiro\Projeto.Entities\bin\Debug\Projeto.Entities.dll
+C:\Users\Lindalva\source\repos\GerenciadorFinanceiro\Projeto.Entities\bin\Debug\Projeto.Entities.pdb
+C:\Users\Lindalva\source\repos\GerenciadorFinanceiro\Projeto.Entities\obj\Debug\Projeto.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Lindalva\source\repos\GerenciadorFinanceiro\Projeto.Entities\obj\Debug\Projeto.Entities.dll
+C:\Users\Lindalva\source\repos\GerenciadorFinanceiro\Projeto.Entities\obj\Debug\Projeto.Entities.pdb
